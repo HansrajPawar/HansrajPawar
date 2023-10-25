@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hansraj-pawar-597565212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hansraj-pawar-597565212/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hansraj.pawar.56211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hansraj.pawar.56211/" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/hansraj_0608/](https://instagram.com/hansraj_0608?igshid=OGQ5ZDc2ODk2ZA==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hansraj_0608/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hansraj.pawar.56211/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://instagram.com/hansraj_0608?igshid=OGQ5ZDc2ODk2ZA==)" alt="https://www.facebook.com/hansraj.pawar.56211/" height="30" width="40" /></a>
+<a href="https://instagram.com/hansraj_0608?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hansraj_0608/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hmpawar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hmpawar01" height="30" width="40" /></a>
 </p>
 
