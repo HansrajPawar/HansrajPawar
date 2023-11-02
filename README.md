@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Webdevelopment**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-Mg69Rs0RGcQbrstgw2jr8XK1bblRkbC)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c0TKZG-V6OXktq4IGDxDaqXy5m5m6XTW/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/HansrajPawar?tab=projects)
 
